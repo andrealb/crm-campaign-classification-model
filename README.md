@@ -43,6 +43,6 @@ by buying the product.
 
 ## Deliveries
 
-What we expect as your solution to be submitted:
+The solutions to be submitted are:
 1. A jupyter notebook with data exploration and a predictive model of classification which allows the company to decide which customers in database will be the target of the next marketing campaign.
 2. A PowerPoint file to present insights and considerations about target customer characteristic features.
